@@ -1,0 +1,17 @@
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/UnityEngine.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/UnityEditor.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Mono.Cecil.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Unity.DataContract.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/e-gen/Desktop/MoveQuest/MoveQuest/Temp/bin/Debug/Mono.Cecil.Mdb.dll
